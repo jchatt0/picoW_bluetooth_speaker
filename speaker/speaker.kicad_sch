@@ -5257,7 +5257,16 @@
 				(hide yes)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07150KL/726959"
+			(at 39.37 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-07150KL"
 			(at 39.37 71.12 0)
 			(effects
 				(font
@@ -5335,7 +5344,16 @@
 				(hide yes)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-071KL/726843"
+			(at 101.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-071KL"
 			(at 101.6 50.8 0)
 			(effects
 				(font
@@ -5492,7 +5510,16 @@
 				(hide yes)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX40203AUK-T/10447227?msockid=1cfcdfe0f76b64111d36cc60f6416529"
+			(at 209.55 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MAX40203AUK+T"
 			(at 209.55 40.64 0)
 			(effects
 				(font
@@ -5745,7 +5772,7 @@
 		(fields_autoplaced yes)
 		(uuid "13d8cc5c-bd84-481a-9798-89f85c22d9fb")
 		(property "Reference" "D1"
-			(at 34.29 39.6875 90)
+			(at 34.29 39.6874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5753,8 +5780,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 34.29 42.2275 90)
+		(property "Value" "LED_GREEN"
+			(at 34.29 42.2274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6291,6 +6318,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ERJ-3EKF2002V"
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4d2d8d8a-9180-4faa-a34c-647aba8f4fe4")
 		)
@@ -6622,7 +6658,16 @@
 				(hide yes)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-071KL/726843"
+			(at 86.36 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-071KL"
 			(at 86.36 50.8 0)
 			(effects
 				(font
@@ -6657,7 +6702,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ab4de6e-b21c-4ac0-89ef-00d16824e70b")
 		(property "Reference" "D2"
-			(at 90.17 37.1475 90)
+			(at 90.17 37.1474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6665,8 +6710,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 90.17 39.6875 90)
+		(property "Value" "LED_ORANGE"
+			(at 90.17 39.6874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6781,6 +6826,15 @@
 			)
 		)
 		(property "Link" ""
+			(at 104.14 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-3EKF2002V"
 			(at 104.14 129.54 0)
 			(effects
 				(font
@@ -7131,6 +7185,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ERJ-3EKF2001V"
+			(at 34.29 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "331fc623-1b42-44e6-9fad-636a0a339aa3")
 		)
@@ -7201,6 +7264,15 @@
 			)
 		)
 		(property "Link" ""
+			(at 58.42 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-3EKF2001V"
 			(at 58.42 71.12 0)
 			(effects
 				(font
@@ -7697,7 +7769,16 @@
 				(hide yes)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-071KL/726843"
+			(at 30.48 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-071KL"
 			(at 30.48 50.8 0)
 			(effects
 				(font
@@ -7848,7 +7929,16 @@
 				(hide yes)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX16054AZT-T/1938114?msockid=1cfcdfe0f76b64111d36cc60f6416529"
+			(at 167.64 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MAX16054AZT_T"
 			(at 167.64 50.8 0)
 			(effects
 				(font
@@ -8509,7 +8599,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "MAX98357AETE_T"
 			(at 193.04 124.46 0)
 			(effects
 				(font
@@ -8518,7 +8608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX16054AZT-T/1938114?msockid=1cfcdfe0f76b64111d36cc60f6416529"
 			(at 193.04 124.46 0)
 			(effects
 				(font
@@ -8718,7 +8808,7 @@
 		(fields_autoplaced yes)
 		(uuid "a399bc86-f0ec-4e9e-9269-957b775f0929")
 		(property "Reference" "D3"
-			(at 105.41 37.1475 90)
+			(at 105.41 37.1474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8726,8 +8816,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 105.41 39.6875 90)
+		(property "Value" "LED_RED"
+			(at 105.41 39.6874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9290,6 +9380,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ERJ-3EKF1004V"
+			(at 214.63 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0dd82f08-ebdb-4c37-84f3-892779051ee7")
 		)
@@ -9799,6 +9898,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 193.04 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e25b8de0-e996-4851-a150-9f6b363320f2")
 		)
@@ -10166,7 +10274,16 @@
 				(hide yes)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-071KL/726843"
+			(at 46.99 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-071KL"
 			(at 46.99 59.69 0)
 			(effects
 				(font
