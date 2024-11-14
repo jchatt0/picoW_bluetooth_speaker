@@ -5440,6 +5440,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 167.64 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c1a94a6b-dcd4-4939-838c-ac03c9d4ecf7")
 		)
@@ -5624,7 +5633,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "087f09de-df91-4c5a-b124-c934d491fb52")
 		(property "Reference" "On_Off1"
 			(at 140.97 41.91 0)
@@ -5825,6 +5834,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "150040GS73240"
+			(at 30.48 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e2d0e52e-9f96-4150-8f41-c7f1e155d318")
 		)
@@ -5979,7 +5997,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2570bef5-05f7-41f0-95be-2f05936b7035")
 		(property "Reference" "H4"
@@ -6052,7 +6070,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "259a620d-18ed-45bd-8dbe-e3d181e2eef3")
 		(property "Reference" "Vol_down1"
 			(at 36.83 163.83 0)
@@ -6755,6 +6773,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "SML-LX0402SOC-TR"
+			(at 86.36 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "596e4548-a902-4cf8-89ca-17c43ca90654")
 		)
@@ -7435,7 +7462,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "540595f7-1998-4f2b-a57c-767b51ac1a6e")
 		(property "Reference" "J2"
 			(at 99.06 62.23 0)
@@ -7645,7 +7672,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "62ab12e4-0649-4246-a854-af3f229c9ff4")
 		(property "Reference" "Vol_up1"
 			(at 41.91 114.3 0)
@@ -7809,7 +7836,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "66c72926-c52c-4781-926f-837d5babaebe")
 		(property "Reference" "H1"
@@ -8095,6 +8122,15 @@
 			)
 		)
 		(property "Link" ""
+			(at 156.21 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603B221K500CT"
 			(at 156.21 130.81 0)
 			(effects
 				(font
@@ -8458,7 +8494,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8f0efb17-5f8a-4aa7-9d55-20cf42c4caa5")
 		(property "Reference" "H2"
@@ -8861,6 +8897,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "XZMDK68W-2"
+			(at 101.6 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ce9cab0f-b354-4e0b-887d-ae3d8ab34638")
 		)
@@ -8949,7 +8994,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b1351514-86b9-4e5a-9462-872e93d5e842")
 		(property "Reference" "J1"
 			(at 40.64 142.2399 0)
@@ -9162,6 +9207,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10A106MQ8NNNC"
+			(at 77.47 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a33d55e-a14a-42e0-a435-11c7f7eb3ce7")
 		)
@@ -9184,7 +9238,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bf75553e-0960-4838-9719-c1ace451deef")
 		(property "Reference" "H3"
@@ -9411,7 +9465,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c4f117c1-e238-4f73-88ed-094df35d38b7")
 		(property "Reference" "J3"
 			(at 143.51 127 0)
@@ -9677,6 +9731,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0603B221K500CT"
+			(at 166.37 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3fbb8073-4bc5-4245-a0ed-686bd10058b1")
 		)
@@ -9813,6 +9876,15 @@
 			)
 		)
 		(property "Link" ""
+			(at 160.02 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MQ8NNNC"
 			(at 160.02 152.4 0)
 			(effects
 				(font
@@ -10005,7 +10077,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "MCP73833"
 			(at 67.31 52.07 0)
 			(effects
 				(font
@@ -10041,6 +10113,15 @@
 			)
 		)
 		(property "Link" ""
+			(at 66.04 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MCP73833-CNI/UN"
 			(at 66.04 59.69 0)
 			(effects
 				(font
@@ -10314,7 +10395,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fd75d680-454d-4ad8-ab35-fcdeda75b6f7")
 		(property "Reference" "U1"
