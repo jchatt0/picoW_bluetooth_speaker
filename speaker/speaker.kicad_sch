@@ -3916,6 +3916,12 @@
 		(uuid "991dcf64-f65a-4996-be93-999af670395c")
 	)
 	(junction
+		(at 100.33 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4fee228-059f-41da-a642-cb067b2d15a1")
+	)
+	(junction
 		(at 54.61 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4209,16 +4215,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 125.73) (xy 104.14 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3259e4bc-5d8e-4179-9ff6-23efb04cd321")
-	)
-	(wire
-		(pts
 			(xy 90.17 120.65) (xy 96.52 120.65)
 		)
 		(stroke
@@ -4226,6 +4222,16 @@
 			(type default)
 		)
 		(uuid "33768195-ab0a-4655-8a4c-a6783aeff87f")
+	)
+	(wire
+		(pts
+			(xy 102.87 138.43) (xy 102.87 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33cd2af2-e071-4f63-84c3-11b421d99fbd")
 	)
 	(wire
 		(pts
@@ -4406,6 +4412,16 @@
 			(type default)
 		)
 		(uuid "5ef29110-8068-471f-a05a-163405f5c218")
+	)
+	(wire
+		(pts
+			(xy 90.17 125.73) (xy 114.3 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "666b5945-d9c3-41e1-99d8-cadc3f686a77")
 	)
 	(wire
 		(pts
@@ -4799,6 +4815,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 128.27) (xy 102.87 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4546138-2b69-469a-9c98-2d66060a01d5")
+	)
+	(wire
+		(pts
 			(xy 50.8 59.69) (xy 58.42 59.69)
 		)
 		(stroke
@@ -4926,6 +4952,16 @@
 			(type default)
 		)
 		(uuid "ea62130d-3ef6-4b67-a684-ce061a1496df")
+	)
+	(wire
+		(pts
+			(xy 102.87 130.81) (xy 102.87 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ede1e033-7bc5-42c9-abec-4fdec1093c43")
 	)
 	(wire
 		(pts
@@ -5103,7 +5139,7 @@
 		(uuid "eac55b16-90f0-4afb-a708-41c4de9c2ee4")
 	)
 	(label "ENABLE"
-		(at 102.87 125.73 0)
+		(at 113.03 125.73 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6819,7 +6855,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 104.14 129.54 0)
+		(at 114.3 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6828,7 +6864,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d1453e4-308a-458d-afb2-fb0f14eae94e")
 		(property "Reference" "R6"
-			(at 106.68 128.2699 0)
+			(at 116.84 128.2699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6837,7 +6873,7 @@
 			)
 		)
 		(property "Value" "20k"
-			(at 106.68 130.8099 0)
+			(at 116.84 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6846,7 +6882,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 102.362 129.54 90)
+			(at 112.522 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6855,7 +6891,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 104.14 129.54 0)
+			(at 114.3 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6864,7 +6900,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 104.14 129.54 0)
+			(at 114.3 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6873,7 +6909,7 @@
 			)
 		)
 		(property "Link" ""
-			(at 104.14 129.54 0)
+			(at 114.3 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6882,7 +6918,7 @@
 			)
 		)
 		(property "MPN" "ERJ-3EKF2002V"
-			(at 104.14 129.54 0)
+			(at 114.3 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7502,7 +7538,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
 			(at 97.79 64.77 0)
 			(effects
 				(font
@@ -7917,6 +7953,159 @@
 			(project "speaker"
 				(path "/02f8f7dd-d22f-4e93-9c29-c836f503a85d"
 					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 102.87 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "67f9a7eb-1bb9-4529-a9fb-238825bc9d50")
+		(property "Reference" "#PWR037"
+			(at 102.87 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 102.87 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 102.87 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 102.87 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 102.87 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4af389c0-f9fe-4e76-893d-ae12509fbedc")
+		)
+		(instances
+			(project "speaker"
+				(path "/02f8f7dd-d22f-4e93-9c29-c836f503a85d"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 102.87 134.62 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "680c749c-a7bc-4314-95be-ac055c2d3af5")
+		(property "Reference" "D4"
+			(at 110.49 134.9374 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED_BLUE"
+			(at 110.49 137.4774 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+			(at 102.87 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 102.87 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 102.87 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 102.87 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XZMDK68W-2"
+			(at 102.87 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd8b71ae-4880-4815-8d9d-4134beccb520")
+		)
+		(pin "2"
+			(uuid "fa67c53e-6fc9-4a76-bdcb-3bfb5307dbac")
+		)
+		(instances
+			(project "speaker"
+				(path "/02f8f7dd-d22f-4e93-9c29-c836f503a85d"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -10190,16 +10379,34 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 104.14 133.35 0)
+		(lib_id "Device:R")
+		(at 102.87 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "f59a965e-9140-4dbc-a4ea-fd8db45e76ca")
-		(property "Reference" "#PWR030"
-			(at 104.14 139.7 0)
+		(uuid "f327c79e-280c-49ee-b96f-9100dc04ca7e")
+		(property "Reference" "R_POWER_LED1"
+			(at 107.442 149.098 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1K"
+			(at 105.41 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 101.092 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10207,26 +10414,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 104.648 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 104.14 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 104.14 133.35 0)
+		(property "Datasheet" "~"
+			(at 102.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10235,7 +10424,94 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 133.35 0)
+			(at 102.87 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-071KL/726843"
+			(at 102.87 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-071KL"
+			(at 102.87 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84a0ad70-629c-44e9-a741-a342596420e7")
+		)
+		(pin "2"
+			(uuid "b25f87d6-7a57-40d4-af36-72a209139590")
+		)
+		(instances
+			(project "speaker"
+				(path "/02f8f7dd-d22f-4e93-9c29-c836f503a85d"
+					(reference "R_POWER_LED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 114.3 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f59a965e-9140-4dbc-a4ea-fd8db45e76ca")
+		(property "Reference" "#PWR030"
+			(at 114.3 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 114.808 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
