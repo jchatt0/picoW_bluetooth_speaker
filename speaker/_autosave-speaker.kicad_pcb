@@ -911,7 +911,7 @@
 			(uuid "083d1388-e83c-4b1e-8bac-6fbc1790f7ef")
 		)
 		(fp_text user "*"
-			(at -1.61925 -2.601 180)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "ebced020-c4e8-474f-9e4f-454b6367a0d1")
@@ -923,7 +923,7 @@
 			)
 		)
 		(fp_text user "*"
-			(at -1.61925 -2.601 180)
+			(at 0 -0.35 180)
 			(layer "F.SilkS")
 			(uuid "f3ffa1ad-98f7-42b4-9e5c-a0c3c8752faf")
 			(effects
